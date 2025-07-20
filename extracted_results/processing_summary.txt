@@ -1,0 +1,10 @@
+Processing Summary:
+Total Images: 40
+Images with GTIN: 0
+Images with SR NO: 0
+Images with LOT: 0
+Images with EXP: 0
+Avg GTIN Confidence: 0.00
+Avg SR_NO Confidence: 0.00
+Avg LOT Confidence: 0.00
+Avg EXP Confidence: 0.00

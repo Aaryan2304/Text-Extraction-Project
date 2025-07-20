@@ -1,0 +1,9 @@
+train: C:/Users/aarya/Videos/NEW PaddleOCR/train
+val: C:/Users/aarya/Videos/NEW PaddleOCR/valid
+test: C:/Users/aarya/Videos/NEW PaddleOCR/test
+
+names: 
+  0: EXP
+  1: GTIN
+  2: LOT
+  3: SR NO
